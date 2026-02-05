@@ -1,0 +1,12 @@
+{
+  "name": "shorts-factory",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev -w @shorts-factory/web",
+    "dev:api": "npm run dev -w @shorts-factory/workers"
+  }
+}
