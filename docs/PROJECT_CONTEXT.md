@@ -16,6 +16,12 @@ KR, US, UK, CA, AU, IN (6개국)
 - Design: Pencil.dev
 - Spec: OpenSpec
 
+## 개발 환경
+- 패키지 매니저: pnpm
+- Node 버전: 18+
+- IDE: Antigravity (VSCode 기반)
+- OS: Windows
+
 ## 페이지 (4개)
 1. / - 대시보드
 2. /shorts-trends - 트렌드 목록
